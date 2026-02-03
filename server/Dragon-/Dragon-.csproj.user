@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="AskData.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AskData2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AskData3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Attacks.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Clients.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CmdLine.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="dashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ddos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DecryptForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="KLogger.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SelectUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ShowData.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
