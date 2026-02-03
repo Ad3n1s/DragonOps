@@ -19,7 +19,7 @@ The Dragon server is built to provide full control and monitoring over connected
 - **Handle high-volume operations efficiently**  
 
 <p align="center">
-  <img src="assets/P.png" alt="DragonOps Logo" width="600">
+  <img src="assets/p.PNG" alt="DragonOps Logo" width="600">
 </p>
 
 Dragon is designed to be **modular and extensible**, allowing researchers and developers to add new features without restructuring the entire codebase. Its built-in dashboards provide a clean overview of connected clients and system activity.
