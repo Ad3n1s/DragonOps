@@ -4,7 +4,7 @@ DragonOps is a high-performance UDP client–server framework with a modern, mod
 ---
 
 <p align="center">
-  <img src="assets/dragonops_logo.png" alt="DragonOps Logo" width="600">
+  <img src="assets/pre.png" alt="DragonOps Logo" width="600">
 </p>
 
 ## Features
