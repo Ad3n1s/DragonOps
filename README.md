@@ -44,3 +44,40 @@ DragonOps is ideal for:
 - Learning about UDP architectures, real-time command execution, and distributed network systems  
 
 It is **strictly intended for legal and educational use** on systems you own or have explicit permission to manage.
+
+
+
+## IGNORE KEYWORDS
+
+
+#RemoteAdministration
+#RemoteAdminTool
+#RAT
+#ClientServerModel
+#NetworkProgramming
+#Sockets
+#TCPIP
+#AutomationTool
+#SystemControl
+#EndpointManagement
+#CSharp
+#DotNet
+#WindowsDevelopment
+
+#CyberSecurity
+#SecurityResearch
+#RedTeam
+#BlueTeam
+#EthicalHacking
+#HackerMindset
+#HackerTools
+#Pentesting
+#Infosec
+#MalwareAnalysis
+#OffensiveSecurity
+#DefensiveSecurity
+
+#EducationalTool
+#EducationalProject
+#ForEducationalPurposes
+#LearningCyberSecurity
