@@ -171,11 +171,11 @@
             label2.AutoSize = true;
             label2.Font = new Font("Microsoft Sans Serif", 10.8F, FontStyle.Bold, GraphicsUnit.Point, 0);
             label2.ForeColor = Color.FromArgb(0, 179, 165);
-            label2.Location = new Point(160, 83);
+            label2.Location = new Point(132, 95);
             label2.Name = "label2";
-            label2.Size = new Size(28, 22);
+            label2.Size = new Size(65, 22);
             label2.TabIndex = 5;
-            label2.Text = "IP";
+            label2.Text = "HOST";
             // 
             // label3
             // 
@@ -246,4 +246,5 @@
         private Label label3;
         private Label label4;
     }
+
 }
